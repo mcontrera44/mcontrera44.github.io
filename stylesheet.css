@@ -144,10 +144,10 @@ h6 {
 	padding-left: 15px; }
 
 a:link {
-	color: #2e6930;	}
+	color: Red;	}
 
 a:visited {
-	color: #2e6930; }
+	color: Red; }
 
 a:active {
 	color: grey; }
@@ -175,7 +175,7 @@ ul.nav li a {
   text-decoration: none; }
 
 ul.nav li a.active {
-  background-color: #2e6930;
+  background-color: red;
   color: white; }
 
 ul.nav li a:hover {
