@@ -1,0 +1,46 @@
+ body { 
+    background-color: black}
+p {
+color:white}
+
+h1{
+color:white}
+
+h2{
+color:white}
+
+h3{
+color:white}
+*{box-sizing: border-box;}
+
+ .row 
+ {content:""; 
+display: table;
+clear:both;}
+
+.column{
+float:left;
+width:50%;
+padding:20px;}
+
+h1 {
+  text-align: center; 
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 60%;
+  
+  
+ul.nav {
+	background-color=green;
+	margin:0;
+	padding:0
+	width:200px; }
+	
+	li a{
+		display:block
+		color:pink;
+		padding:8px 16 px}
